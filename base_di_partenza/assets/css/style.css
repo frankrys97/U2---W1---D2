@@ -438,12 +438,12 @@ aside div p:last-child {
   .calendar {
     position: fixed;
     top: unset;
-    bottom: 120px;
+    bottom: 100px;
   }
   .social {
     position: fixed;
     top: unset;
-    bottom: 220px;
+    bottom: 180px;
   }
 }
 
